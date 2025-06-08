@@ -19,6 +19,6 @@ git clone https://github.com/bigyan08/my_nvim_config.git ~/.config/nvim
 3. You can remove the .git if you want (optional)
 
 4. Run lazy neovim
-   ```
-   nvim
-   ```
+```
+nvim
+```
