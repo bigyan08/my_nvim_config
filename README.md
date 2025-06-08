@@ -8,7 +8,9 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 
 1. First install neovim into your system (this one for ubuntu)
 ```
-sudo apt install nvim
+sudo add-apt-repository ppa:neovim-ppa/stable
+sudo apt-get update
+sudo apt-get install neovim
 ```
 
 2. Next, clone this repo into your neovim config.
